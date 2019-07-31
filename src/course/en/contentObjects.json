@@ -2,7 +2,7 @@
   {
     "title": "Lets Begin the Course",
     "displayTitle": "Lets Begin the Course",
-    "displaySubTitle": "Lorem ipsum dollor sit amet. A mice sub title for this cpurce",
+    "displaySubTitle": "Click on View button to begin the Course",
     "icon": "school",
     "body": "",
     "_classes": "",
@@ -31,7 +31,7 @@
   {
     "title": "Online Assesment",
     "displayTitle": "Online Assesment",
-    "displaySubTitle": "Lorem ipsum dollor sit amet. A mice sub title for this cpurce",
+    "displaySubTitle": "Click on View button to take an Assesment",
     "icon": "query_builder",
     "body": "",
     "_classes": "",
