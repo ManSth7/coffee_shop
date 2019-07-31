@@ -1,7 +1,7 @@
 module.exports = function (grunt, options) {
 
   var port = grunt.option('port') || 3000;
-  var host = grunt.option('host') || "elearning-course.com";
+  var host = grunt.option('host') || "18.224.181.145";
 
   return {
     server: {
